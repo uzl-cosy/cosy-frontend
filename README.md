@@ -1,6 +1,11 @@
+CoSy
+
 ![Vue](https://img.shields.io/badge/Vue-3.2.45-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![NPM](https://img.shields.io/badge/Build-NPM-blue.svg)
+
+
+CoSy (Communication Support System) is an AI-based learning assistance system developed at the University of Lübeck. It supports the development of patient-oriented communication skills among students, particularly in medical contexts. CoSy records role-playing scenarios in communication modules using microphones. It provides participants with individual feedback based on quantifiable parameters such as volume, speaking pace, and speaking time. This feedback can be effectively integrated into instructor feedback.
 
 # LABORATORIUM Frontend
 
