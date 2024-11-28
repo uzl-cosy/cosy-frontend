@@ -1,4 +1,4 @@
-CoSy
+# CoSy
 
 ![Vue](https://img.shields.io/badge/Vue-3.2.45-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
